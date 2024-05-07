@@ -60,5 +60,6 @@ endmodule
 ![alt text](de1.png)
 
 **RESULTS**
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
 
